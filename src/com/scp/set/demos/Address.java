@@ -3,7 +3,7 @@ public class Address {
 	private int pinCode;
 	private String city;
 	
-	private int number;
+	private int num;
 	/* (non-Javadoc)
 	 * @see java.lang.Object#toString()
 	 */
