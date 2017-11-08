@@ -1,8 +1,9 @@
 package com.scp.set.demos;
-
 public class Address {
 	private int pinCode;
 	private String city;
+	
+	private int number;
 	/* (non-Javadoc)
 	 * @see java.lang.Object#toString()
 	 */
